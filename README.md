@@ -1,0 +1,2 @@
+# geopos
+GEO POS SPANISH TRANSLATE
